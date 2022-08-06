@@ -1,0 +1,7 @@
+go 1.18
+
+use (
+	./mods/dir1
+	./mods/dir2
+	./mods/dir3
+)
